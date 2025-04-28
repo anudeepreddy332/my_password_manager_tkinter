@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.idea/
+*.iml
+.DS_Store
+venv/
+.venv/
+dist/
+build/
+*.log
+*.json
+data.json
