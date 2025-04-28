@@ -110,14 +110,4 @@ add_button.grid(row=5,column=1)
 search_button = Button(text="Search",width=14,command=find_password)
 search_button.grid(row=2,column=2)
 
-
-
-
-
-
-
-
-
-
-
 window.mainloop()
