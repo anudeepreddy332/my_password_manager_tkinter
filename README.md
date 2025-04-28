@@ -28,4 +28,3 @@ A simple yet powerful Password Manager App built using Python and Tkinter GUI, w
 
 This project is licensed under the MIT License.
 Feel free to use, modify, and share it.
-
